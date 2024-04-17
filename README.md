@@ -1,2 +1,1 @@
-### Asteroid_hazardous_or_not
-In this we will be classifying the asteroids into 4 categories which are Athens,Apollo,Amor and Apopeles
+#### This project focuses on categorizing asteroids into four groups: Athens, Apollo, Amor, and Apopeles. The aim is to predict whether an asteroid is hazardous or not.
